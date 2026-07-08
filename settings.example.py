@@ -1,5 +1,5 @@
 # Google API
-# Скопируйте этот файл в settings.py и заполните своими значениями.
+# Copy this file to settings.py and fill in your own values.
 GSH_ACCOUNT = './gsh_acc.json'
 GDV_ACCOUNT = './gdv_acc.json'
 GDV_FOLDER_ID = 'YOUR_GOOGLE_DRIVE_FOLDER_ID'
